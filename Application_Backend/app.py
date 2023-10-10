@@ -27,4 +27,4 @@ def predict():
     return {"class":"tomato","confidence": "0.06"}
 
 
-# flask run -h 192.168.8.196 -p 3000 --debug
+# flask run -h 192.168.8.190 -p 3000 --debug

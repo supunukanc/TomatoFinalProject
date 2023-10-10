@@ -47,7 +47,7 @@ const options = {
   includeBase64: true,
 };
 
-const BACKEND_URL = 'http://192.168.8.196:3000/predict'
+const BACKEND_URL = 'http://192.168.8.190:3000/predict'
 
 
 export default function CameraPage() {
